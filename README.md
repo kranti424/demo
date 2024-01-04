@@ -1,2 +1,2 @@
 # demo
-this is a demo from delta course
+this is a demo from delta course.
